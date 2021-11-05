@@ -1,2 +1,3 @@
-# Projeto-F4-Bank
-Projeto de um site para um banco digital fictício como exercício do curso na Labenu
+# Projeto F4 Banck
+## Acesse: https://f4banck-project.surge.sh/
+### landing-page
